@@ -1,7 +1,7 @@
 [README (1).md](https://github.com/user-attachments/files/24523256/README.1.md)
 # **📊 Telco Customer Churn Analysis**
 
-*(Note: Upload a screenshot of your dashboard to this repository and name it 'https://www.google.com/search?q=dashboard-screenshot.png' for it to appear here)*
+*(Note: Upload a screenshot of your dashboard to this repository and name it 'dashboard-screenshot.png' for it to appear here)*
 
 ## **📌 Project Overview**
 
